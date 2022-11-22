@@ -1,5 +1,3 @@
-**Como consumir uma API em Python:**
-
 Instalar biblioteca request:
 
 -> Abrir prompt   
